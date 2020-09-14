@@ -1,6 +1,3 @@
-### Hi, I’m Alisher 👋
+# Hi, I’m Alisher
 
-Developer Student, 19 y.o.
-
-- Reach me in Telegram: [@novanaz](https://t.me/novanaz).
-- [See a bit more](https://nazarhanov.github.io)
+Contact me on [Telegram](https://t.me/novanaz)
