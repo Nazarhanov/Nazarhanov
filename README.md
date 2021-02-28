@@ -1,5 +1,7 @@
 # Hi, I’m Alisher
 
-Contact me on [Telegram](https://t.me/novanaz)
+### 🤝🏻 Connect with Me:
+
+[![Telegram](https://img.shields.io/badge/Telegram-Contact?style=social&logo=telegram)](https://t.me/novanaz) [![Discord](https://img.shields.io/badge/Discord-Contact?style=social&logo=discord)](https://discordapp.com/users/689129055219613746)
 
 ![visitors](https://komarev.com/ghpvc/?username=nazarhanov&label=Profile+views&color=brightgreen)
