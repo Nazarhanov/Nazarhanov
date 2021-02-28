@@ -2,4 +2,4 @@
 
 Contact me on [Telegram](https://t.me/novanaz)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nazarhanov)
+![visitors](https://komarev.com/ghpvc/?username=nazarhanov&label=Profile+views&color=brightgreen)
